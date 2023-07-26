@@ -54,4 +54,4 @@ The code is provided "as-is" and we make no guarantees that it is bug-free. Keep
 
 
  Notes
-The twitter API Neeeds Examination
+The twitter API Needs Examination
